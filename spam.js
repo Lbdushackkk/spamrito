@@ -4,7 +4,7 @@ const spam = {}
 const status = {}
 const color = {}
 
-console.log({name: "SpamRito", version: "1.0", created: "08/08/2020", author: "KiritoOfficial"});
+console.log({name: "LB SPAMMER", version: "1.0", created: "03/03/2021", author: "LB DUS HACKKK"});
 
 const kiritoOfficial = async (uri, postdata, headers = {}, method, proxy = false, jar) => {
 
